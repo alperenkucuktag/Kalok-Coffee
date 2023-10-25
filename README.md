@@ -1,6 +1,6 @@
 <h1>Kalok Kahvesi</h1>
 
- kullanıcıların çevrimiçi olarak kahve siparişleri vermesini, menüleri görüntülemesini, ödeme yapmasını ve kahve ile ilgili diğer bilgilere erişmesini sağlar.
+ Kullanıcıların çevrimiçi olarak kahve siparişleri vermesini, menüleri görüntülemesini, ödeme yapmasını ve kahve ile ilgili diğer bilgilere erişmesini sağlar.
 
  <h2>Harici Teknolojiler</h2>
 
